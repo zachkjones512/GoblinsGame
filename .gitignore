@@ -1,0 +1,11 @@
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Content/Collections/
+Content/Developers/
+Content/StarterContent/
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+.vsconfig
